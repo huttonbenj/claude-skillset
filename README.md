@@ -17,7 +17,7 @@ From a terminal, the same two steps are `claude plugin marketplace add huttonben
 
 | Tool | What it does |
 |---|---|
-| [youtube-reader](https://github.com/huttonbenj/youtube-reader) | Lets Claude read YouTube. Saves transcripts, comments and video details to a local library so Claude can summarize, fact-check and compare across videos, channels and searches. |
+| [youtube-reader](https://github.com/huttonbenj/youtube-reader) | Saves YouTube transcripts, video details and top comments to a local library, so Claude can summarize, fact-check and compare what videos, channels and searches say. |
 
 ## Updates
 

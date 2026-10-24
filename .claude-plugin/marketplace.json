@@ -12,7 +12,7 @@
         "source": "url",
         "url": "https://github.com/huttonbenj/youtube-reader.git"
       },
-      "description": "Lets Claude read YouTube. Saves transcripts, comments and video details to a local library so Claude can summarize, fact-check and compare across videos, channels and searches.",
+      "description": "Saves YouTube transcripts, video details and top comments to a local library, so Claude can summarize, fact-check and compare what videos, channels and searches say.",
       "category": "research",
       "tags": [
         "youtube",
