@@ -1,0 +1,26 @@
+{
+  "name": "claude-skillset",
+  "description": "Claude Code skills I built and use every day, each in its own repo.",
+  "owner": {
+    "name": "Ben Hutton",
+    "url": "https://huttontechnologies.com"
+  },
+  "plugins": [
+    {
+      "name": "youtube-reader",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/huttonbenj/youtube-reader.git"
+      },
+      "description": "Lets Claude read YouTube. Saves transcripts, comments and video details to a local library so Claude can summarize, fact-check and compare across videos, channels and searches.",
+      "category": "research",
+      "tags": [
+        "youtube",
+        "transcripts",
+        "research",
+        "fact-check"
+      ],
+      "license": "MIT"
+    }
+  ]
+}
